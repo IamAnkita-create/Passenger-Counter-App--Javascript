@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/ankitasharma88990/Passenger-Counter-App--Javascript
+	fetch = +refs/heads/*:refs/remotes/origin/*
